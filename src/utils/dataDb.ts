@@ -103,3 +103,28 @@ export const categories = {
     },
   ],
 };
+
+export const promo = {
+  status: "success",
+  message: "Success",
+  data: [
+    {
+      id: 1,
+      name: "30K Only",
+      description: "Korela Moka & Donut",
+      image_url:
+        "https://instagram.fbdj5-1.fna.fbcdn.net/v/t51.2885-15/491461246_17858022045407490_1382311216670222554_n.jpg?stp=dst-jpg_e35_p1080x1080_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkZFRUQuaW1hZ2VfdXJsZ2VuLjE0NDB4MTgwMC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fbdj5-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QEhuJRgAE1x8BUjZ2tZ8c3fmcTTb4HPmwnGbIyH_iOu7wB1bGQaVXrJTqc_QuEuyCm9NesTQ9gBl3asOF_EFx0g&_nc_ohc=bhzaYP_84BkQ7kNvwFa-MRf&_nc_gid=MVhIUceRDaquaA2F4H-4rw&edm=AA5fTDYBAAAA&ccb=7-5&ig_cache_key=MzYxNjI5MjMxMTkxNzI4OTg0Nw%3D%3D.3-ccb7-5&oh=00_AfG0oTxFC-tDIxDWYflpqxdoT8FyajcWaElz4eaZbhMpPA&oe=68122564&_nc_sid=7edfe2",
+      created_at: "2025-04-11T18:16:45.000000Z",
+      updated_at: "2025-04-11T18:16:45.000000Z",
+    },
+    {
+      id: 2,
+      name: "Get TapCash",
+      description: "Belanja minimal 300K bisa dapetin Free Wondr Card by BNI",
+      image_url:
+        "https://instagram.fbdj5-1.fna.fbcdn.net/v/t51.2885-15/490389830_17856802437407490_1569468836919339382_n.jpg?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6IkNBUk9VU0VMX0lURU0uaW1hZ2VfdXJsZ2VuLjE0NDB4MTgwMC5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=instagram.fbdj5-1.fna.fbcdn.net&_nc_cat=106&_nc_oc=Q6cZ2QFnz0C-UmzlYlED3NEgGJyHzRc0thwmOevwLmaAmuIDc4QWxBJ0Vzf1a9gePuIf6iY24gimEZ0BVmTCx1Wou7TO&_nc_ohc=_smS_pn8rQcQ7kNvwG71Jqp&_nc_gid=YVxD_0H73ITu9xdLFV_OeA&edm=AP4sbd4BAAAA&ccb=7-5&ig_cache_key=MzYwOTAyOTEwMDA5NjU1MTkxNQ%3D%3D.3-ccb7-5&oh=00_AfHROhPweSZeKYpIO4MeaIwKjWajuX7LlTw9-weT2e2y3g&oe=6812297C&_nc_sid=7a9f4b",
+      created_at: "2025-04-11T18:17:12.000000Z",
+      updated_at: "2025-04-11T18:17:12.000000Z",
+    },
+  ],
+};
