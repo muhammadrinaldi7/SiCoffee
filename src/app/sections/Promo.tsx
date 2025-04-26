@@ -34,7 +34,9 @@ export const Promo = () => {
                     height={1000}
                     className="-mt-6 h-96 w-full rounded-bl-3xl hover:ml-0 rounded-tr-3xl border border-gray-300 object-cover"
                   />
-                  <h1 className="text-xl font-bold mt-4">{item.name}</h1>
+                  <h1 className="text-xl text-black font-bold mt-4">
+                    {item.name}
+                  </h1>
                   <p className="text-sm text-gray-500">{item.description}</p>
                 </CarouselItem>
               ))}
