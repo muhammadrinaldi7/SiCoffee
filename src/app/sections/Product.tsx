@@ -49,7 +49,6 @@ export const Product = () => {
   // });
   const { data } = categories; // useQuery({
 
-  console.log(data);
   return (
     <div
       id="product"
