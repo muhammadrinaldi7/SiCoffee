@@ -1,5 +1,6 @@
 "use client";
 
+import { Footer } from "./sections/Footer";
 import { Hero } from "./sections/Hero";
 import { Product } from "./sections/Product";
 import { Promo } from "./sections/Promo";
@@ -10,6 +11,7 @@ export default function Home() {
       <Hero />
       <Product />
       <Promo />
+      <Footer />
     </div>
   );
 }
